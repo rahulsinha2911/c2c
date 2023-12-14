@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "upper-case": "^3.0.0"
+    "dotenv": "^16.3.1",
+    "redis": "^4.6.11"
   }
 }
